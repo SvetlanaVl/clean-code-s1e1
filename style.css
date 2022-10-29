@@ -81,6 +81,7 @@
   border-radius: 6px;
   font-family: Lato, sans-serif;
   color: #888;
+  text-transform: capitalize;
 }
 .list-task__input_type-text:focus {
   color: #333;
