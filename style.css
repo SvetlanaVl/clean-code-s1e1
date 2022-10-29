@@ -136,7 +136,7 @@
 }
 
 /* Edit Task */
-.list-task__input_type-text {
+.list-task__item .list-task__input_type-text {
   display: none;
 }
 
